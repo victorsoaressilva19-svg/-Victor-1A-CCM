@@ -20,7 +20,7 @@ header h3{
 }
 
 nav ul{
-    list-style: nome;
+    list-style: none;
     margin: 0;
     padding: 0;
     display: flex;
@@ -42,5 +42,5 @@ header nav al li  a{
 header nav al li :haver{
 
     color:aquamarine ( 255, 3, 238);
-    
+
 }
